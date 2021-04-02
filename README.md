@@ -2,10 +2,12 @@
 - 👀 I’m interested in white-hat hacking...
 - 🌱 I’m currently learning HTML+JavaScript+python...
 - 💻 I am a software engineer...
-- 📫 How to reach me ...
-- Join my WhatsApp group
-
-https://chat.whatsapp.com/KVjHxUYOJlaKi6EquDUEAK
+<p align="center">
+  <a href="technicalxl09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/send-mail-red"></a>
+</p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/KVjHxUYOJlaKi6EquDUEAK" target="_blank"><img src="https://img.shields.io/badge/join-group-green"></a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-technical--xl-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
