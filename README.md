@@ -6,6 +6,18 @@
 - Join my WhatsApp group
 
 https://chat.whatsapp.com/KVjHxUYOJlaKi6EquDUEAK
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-technical--xl-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</p>
+
+
+### Find Me on :
+<p align="center">
+  <a href="https://github.com/ak47ak47" target="_blank"><img src="https://img.shields.io/badge/Github-technical--xl-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/technicalxl/" target="_blank"><img src="https://img.shields.io/badge/follow-technicalxl-red"></a>
+</p>
 
 
 <!---
