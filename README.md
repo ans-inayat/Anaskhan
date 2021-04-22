@@ -16,7 +16,7 @@
 ### Find Me on :
 <p align="center">
   <a href="https://github.com/ak47ak47" target="_blank"><img src="https://img.shields.io/badge/Github-technical--xl-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/technicalxl/" target="_blank"><img src="https://img.shields.io/badge/follow-technicalxl-red"></a>
+  <a href="https://www.instagram.com/technicalxl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Technical%20xl-red"></a>
 </p>
 
 
