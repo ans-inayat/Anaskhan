@@ -13,14 +13,14 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer from Pakistan.
+I am a Cybersecurity Specialist and Full Stack Developer from Pakistan.
 - 👋 Hi, I’m @Ans Inayat
-- 👀 I’m interested in white-hat hacking.
-- 🌱 I’m currently learning HTML, JavaScript, and Python.
-- 💻 I am a software engineer.
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👀 I’m passionate about ethical hacking and cybersecurity.
+- 🌱 I’m currently learning HTML, JavaScript, and Python to enhance my development skills.
+- 💻 I am a software engineer with a strong focus on cybersecurity practices.
+- 🔭 I’m involved in various cybersecurity projects, including penetration testing and vulnerability assessments.
+- 🌱 Exploring advanced cybersecurity techniques and technical content writing.
+- ⚡ In my free time, I solve cybersecurity challenges on platforms like GeeksforGeeks and read tech articles.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ans-inayat/)
 
 ---
@@ -28,22 +28,17 @@ I am a Full Stack Developer from Pakistan.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+<img src="https://camo.githubusercontent.com/ba206178ffaaa3c81e6adaefadf584a1bebebe92b40066322c2880f05e9e86e4/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f3538303133313035363632393733353432342f32454e546b324b322e706e67" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1280px-Wireshark_Logo.svg.png" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </p>
 
 ---
